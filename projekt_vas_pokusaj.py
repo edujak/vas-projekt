@@ -9,7 +9,7 @@ import datetime
 import time
 import nest_asyncio
 from spade.agent import Agent
-from spade.behaviour import OneShotBehaviour, PeriodicBehaviour
+from spade.behaviour import PeriodicBehaviour
 
 nest_asyncio.apply()
 
